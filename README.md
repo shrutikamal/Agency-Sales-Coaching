@@ -10,7 +10,7 @@
 Through internal links, sitemap.xml, backlinks, and direct URL submission via Google Search Console.
 
 ### 2. What factors could prevent indexing?
-- Noindex meta tag
+- No index meta tag
 - robots.txt blocking
 - Poor server response
 - Duplicate content
